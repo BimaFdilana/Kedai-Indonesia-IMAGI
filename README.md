@@ -43,7 +43,7 @@ Kedai Indonesia bukan sekadar aplikasi kasir biasa. Kami menyematkan teknologi c
 
 Untuk memasang aplikasi di perangkat Android Anda, ikuti langkah-langkah berikut:
 
-1.  **Unduh File**: Unduh file `.apk` dari halaman **[Releases](https://github.com/username/repo-name/releases/latest)**.
+1.  **Unduh File**: Unduh file `.apk` dari halaman **[Releases](https://github.com/BimaFdilana/Kedai-Indonesia-IMAGI/releases)**.
 2.  **Izinkan Instalasi**: Buka **Pengaturan** > **Keamanan** di perangkat Anda, lalu aktifkan opsi **"Instal dari Sumber Tidak Dikenal"** atau **"Install unknown apps"**. Langkah ini diperlukan karena Anda menginstal aplikasi di luar Google Play Store.
 3.  **Instal Aplikasi**: Buka file manager Anda, cari file `.apk` yang telah diunduh, lalu ketuk file tersebut untuk memulai proses instalasi.
 4.  **Selesai**: Setelah instalasi berhasil, Anda dapat membuka dan mulai menggunakan aplikasi Kedai Indonesia!
