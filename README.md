@@ -74,7 +74,3 @@ Kami sangat menghargai masukan dari Anda! Jika Anda menemukan bug, memiliki sara
 
 Aplikasi ini didistribusikan di bawah Lisensi [MIT](https://github.com/username/repo-name/blob/main/LICENSE) *(atau ganti dengan lisensi pilihan Anda)*.
 
----
-<p align="center">
-  <strong>Dibangun dengan ❤️ untuk kemajuan UMKM Indonesia.</strong>
-</p>
