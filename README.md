@@ -67,7 +67,6 @@ Untuk memasang aplikasi di perangkat Android Anda, ikuti langkah-langkah berikut
 Kami sangat menghargai masukan dari Anda! Jika Anda menemukan bug, memiliki saran fitur, atau ingin bertanya, silakan:
 
 * **Buat "Issue" Baru**: Cara terbaik adalah dengan membuat laporan melalui tab **[Issues](https://github.com/username/repo-name/issues)** di repositori ini.
-* **Hubungi Kami via Email**: [kontak@kedaiindonesia.com](mailto:kontak@kedaiindonesia.com) *(ganti dengan email Anda)*
 
 ---
 
