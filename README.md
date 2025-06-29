@@ -39,17 +39,6 @@ Kedai Indonesia bukan sekadar aplikasi kasir biasa. Kami menyematkan teknologi c
 
 ---
 
-## 📸 Tangkapan Layar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/assets/screenshot1.png" width="24%">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/assets/screenshot2.png" width="24%">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/assets/screenshot3.png" width="24%">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/assets/screenshot4.png" width="24%">
-</p>
-*(Ganti gambar di atas dengan tangkapan layar asli dari aplikasi Anda. Disarankan: Halaman Login, Halaman Kasir/POS, Halaman Laporan, Halaman Pengaturan.)*
-
----
 
 ## ⚙️ Cara Instalasi
 
