@@ -66,7 +66,7 @@ Untuk memasang aplikasi di perangkat Android Anda, ikuti langkah-langkah berikut
 
 Kami sangat menghargai masukan dari Anda! Jika Anda menemukan bug, memiliki saran fitur, atau ingin bertanya, silakan:
 
-* **Buat "Issue" Baru**: Cara terbaik adalah dengan membuat laporan melalui tab **[Issues](https://github.com/username/repo-name/issues)** di repositori ini.
+* **Buat "Issue" Baru**: Cara terbaik adalah dengan membuat laporan melalui tab **[Issues](https://github.com/BimaFdilana/Kedai-Indonesia-IMAGI/issues)** di repositori ini.
 
 ---
 
