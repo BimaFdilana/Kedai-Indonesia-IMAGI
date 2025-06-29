@@ -16,7 +16,7 @@ Selamat datang di halaman unduhan resmi **Kedai Indonesia**! Aplikasi Point of S
 Dapatkan versi stabil terbaru dari aplikasi Kedai Indonesia dengan mengklik tombol di bawah ini atau kunjungi halaman **Releases**.
 
 <p align="center">
-  <a href="https://github.com/username/repo-name/releases/latest">
+  <a href="https://github.com/BimaFdilana/Kedai-Indonesia-IMAGI/releases/tag/v1.1.0">
     <img src="https://img.shields.io/badge/Unduh_APK_Terbaru-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Unduh APK Terbaru">
   </a>
 </p>
