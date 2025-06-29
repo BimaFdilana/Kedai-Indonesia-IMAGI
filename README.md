@@ -1,4 +1,5 @@
 # 🇮🇩 Kedai Indonesia - Aplikasi Kasir (POS) Cerdas
+## PT. Indonesia Maxima Teknologi
 
 ![Versi](https://img.shields.io/github/v/release/username/repo-name?style=for-the-badge&logo=github&label=Versi)
 ![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android)
