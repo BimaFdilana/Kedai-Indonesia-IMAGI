@@ -7,7 +7,7 @@
 
 Selamat datang di halaman unduhan resmi **Kedai Indonesia**! Aplikasi Point of Sale (POS) modern yang dirancang untuk merevolusi cara Anda mengelola bisnis. Dilengkapi dengan fitur cerdas mulai dari analisis data hingga program sosial, Kedai Indonesia adalah partner digital terbaik untuk UMKM dan toko di seluruh Indonesia.
 
-![Banner Aplikasi Kedai Indonesia](https://raw.githubusercontent.com/username/repo-name/main/assets/banner.png)
+![Banner Aplikasi Kedai Indonesia](image/tablet-ki.png)
 *(Ganti gambar di atas dengan banner atau screenshot utama aplikasi Anda)*
 
 ---
