@@ -61,5 +61,5 @@ Kami sangat menghargai masukan dari Anda! Jika Anda menemukan bug, memiliki sara
 
 ## 📜 Lisensi
 
-Aplikasi ini didistribusikan di bawah Lisensi [MIT](https://www.kedaiindonesia.cloud/)
+Aplikasi ini didistribusikan di bawah Lisensi https://www.kedaiindonesia.com
 
