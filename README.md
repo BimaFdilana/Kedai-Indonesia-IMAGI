@@ -20,7 +20,8 @@ Dapatkan versi stabil terbaru dari aplikasi Kedai Indonesia dengan mengklik tomb
     <img src="https://img.shields.io/badge/Unduh_APK_Terbaru-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Unduh APK Terbaru">
   </a>
 </p>
-
+---
+---
 ---
 
 ## ✨ Fitur Unggulan
